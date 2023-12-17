@@ -4,7 +4,7 @@
 
 
 def minOperations(n):
-    '''inputs the fewest number of operations needed to result
+    '''inputs fewest number of operations needed to result
     in exactly n H characters.
     '''
     if not isinstance(n, int):
