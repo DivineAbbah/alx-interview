@@ -6,7 +6,7 @@ import sys
 
 
 def ChessBoard(n: int):
-    """ A Program that solves the N queens problem with 
+    """A Program that solves the N queens problem with 
     Backtracking algorithm
     Args:
         n (int): no of non-attacking queens to place on board.
